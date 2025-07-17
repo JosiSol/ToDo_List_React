@@ -22,7 +22,7 @@ A simple and modern To-Do List application built with React, TypeScript, Tailwin
 
 1. Clone the repository:
    ```bash
-   git clone [<your-repo-url>](https://github.com/JosiSol/ToDo_List_React)
+   git clone https://github.com/JosiSol/ToDo_List_React
    cd ToDo_List_React
    ```
 2. Install dependencies:
